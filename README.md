@@ -2,7 +2,7 @@
 
 Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_is_odd.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_is_odd)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_is_odd/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_is_odd/branch/master)
+master|[![Build Status](https://travis-ci.org/CarmenIJsebaart/correct_cpp_is_odd.svg?branch=master)](https://travis-ci.org/CarmenIJsebaart/correct_cpp_is_odd)|[![codecov.io](https://codecov.io/github/CarmenIJsebaart/correct_cpp_is_odd/coverage.svg?branch=master)](https://codecov.io/github/CarmenIJsebaart/correct_cpp_is_odd/branch/master)
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'is odd'.
 
